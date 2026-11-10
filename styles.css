@@ -204,3 +204,5 @@ footer{padding-bottom:calc(24px + env(safe-area-inset-bottom))}
   .portrait{max-width:180px}
 }
 @media(hover:none){.btn:hover{transform:none;box-shadow:none}}
+
+@media(max-width:900px){.menu-btn{margin-left:auto}nav{flex:0 0 0}}
